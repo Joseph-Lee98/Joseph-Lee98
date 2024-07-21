@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Joseph 👋
 
-<!--
-**Joseph-Lee98/Joseph-Lee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👷‍♂️ ➡️ 👩‍💻 Process Engineer turned Software Developer!
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript, HTML, CSS, TypeScript, SQL, PostgreSQL, React, React Native, Express.js, Node.js
+Test-Driven Development, Pair Programming, Jest, Supertest
+Agile, SCRUM, Git
+
+## 🔭 I'm currently working on:
+
+My portfolio website
+
+## 🌱 I'm currently learning:
+
+c# (specialising in the .NET framework)
+
+## 🌟 Portfolio Projects:
+
+NorthCoders News Back-End: - Repo | Hosted API
+NorthCoders News Front-End: - Repo | Hosted App
+
+## 📫 How to reach me:
+
+[LinkedIn](https://www.linkedin.com/in/joseph-lee-oldham/)
+Email: JosephLee498@gmail.com
