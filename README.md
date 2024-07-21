@@ -1,27 +1,27 @@
-# Hi there, I'm Joseph 👋
+# Hi there, I'm Joseph 👋<br>
 
-### 👷‍♂️ ➡️ 👩‍💻 Process Engineer turned Software Developer!
+### 👷‍♂️ ➡️ 👩‍💻 Process Engineer turned Software Developer!<br>
 
-## 💻 Tech Stack
+## 💻 Tech Stack<br>
 
-JavaScript, HTML, CSS, TypeScript, SQL, PostgreSQL, React, React Native, Express.js, Node.js
-Test-Driven Development, Pair Programming, Jest, Supertest
-Agile, SCRUM, Git
+JavaScript, HTML, CSS, TypeScript, SQL, PostgreSQL, React, React Native, Express.js, Node.js<br>
+Test-Driven Development, Pair Programming, Jest, Supertest<br>
+Agile, SCRUM, Git<br>
 
-## 🔭 I'm currently working on:
+## 🔭 I'm currently working on:<br>
 
-My portfolio website
+My portfolio website<br>
 
-## 🌱 I'm currently learning:
+## 🌱 I'm currently learning:<br>
 
-c# (specialising in the .NET framework)
+C# (specialising in the .NET framework)<br>
 
-## 🌟 Portfolio Projects:
+## 🌟 Portfolio Projects:<br>
 
-NorthCoders News Back-End: - Repo | Hosted API
-NorthCoders News Front-End: - Repo | Hosted App
+NorthCoders News Back-End: - Repo | Hosted API<br>
+NorthCoders News Front-End: - Repo | Hosted App<br>
 
-## 📫 How to reach me:
+## 📫 How to reach me:<br>
 
-[LinkedIn](https://www.linkedin.com/in/joseph-lee-oldham/)
+[LinkedIn](https://www.linkedin.com/in/joseph-lee-oldham/)<br>
 Email: JosephLee498@gmail.com
