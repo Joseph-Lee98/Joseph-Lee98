@@ -18,8 +18,8 @@ C# (specialising in the .NET framework)<br>
 
 ## 🌟 Portfolio Projects:<br>
 
-- NorthCoders News Back-End: - Repo | Hosted API<br>
-- NorthCoders News Front-End: - Repo | Hosted App<br>
+- NorthCoders News Back-End: [Repo](https://github.com/Joseph-Lee98/BE-NC-NEWS) | [Hosted API](https://be-nc-news-q4om.onrender.com/api)<br>
+- NorthCoders News Front-End: [Repo](https://github.com/Joseph-Lee98/FE-NC-NEWS) | [Hosted App](https://joseph-nc-news.netlify.app)<br>
 
 ## 📫 How to reach me:<br>
 
